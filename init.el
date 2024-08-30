@@ -20,7 +20,7 @@
 ;; Installs packages
 ;;
 ;; JULIA MODE
-(add-to-list 'load-path "/Users/391753t/Documents/julia_on_emacs")
+(add-to-list 'load-path "/julia_on_emacs")
 (require 'julia-mode)
 ;;(package-install 'julia-mode)
 ;;(require 'julia-mode)
